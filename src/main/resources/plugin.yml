@@ -1,0 +1,8 @@
+name: SwordSMP
+version: '1.0-SNAPSHOT'
+main: me.coca.swordsmp.SwordSMP
+api-version: 1.19
+commands:
+  sword:
+    description: Give a player a sword.
+    usage: /sword <player> <sword_name> <amount>
